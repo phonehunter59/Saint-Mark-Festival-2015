@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Saint Mark Festival 2015</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="choose">Choose your grade level</string>
+    <string name="kg">KG</string>
+    <string name="one">1st to 2nd</string>
+    <string name="three">3rd to 5th</string>
+    <string name="six">6th to 8th</string>
+    <string name="nine">9th to 12th</string>
+    <string name="spacer">                          </string>
+    <string name="welcome">Welcome!</string>
+    <string name="logo">Logo</string>
+    <string name="con">Continue</string>
+    <string name="bible">Bible</string>
+    <string name="hymns">Hymns</string>
+    <string name="sports">Sports Schedule</string>
+    <string name="coptic">Coptic</string>
+    <string name="research">Research</string>
+    <string name="choir">Choir</string>
+    <string name="electronics">Electronics</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="hiten">Hiten Eprisvia</string>
+    <string name="tengousht">Tengousht</string>
+    <string name="agios">Agios</string>
+    <string name="internet">Internet connection is required for streaming!</string>
+    <string name="play">Play</string>
+    <string name="dl">Download</string>
+    <string name="psalm">Psalm 150 Coptic</string>
+    <string name="fai">Alleulia Fai Pe Pe</string>
+    <string name="gospel">Gospel Response</string>
+    <string name="fourth">3rd and 4th</string>
+    <string name="fifth">5th</string>
+    <string name="sixth">6th</string>
+    <string name="seventh">7th to 8th</string>
+    <string name="nish">Nisheroubim</string>
+    <string name="cymbals">Verses of the Cymbals</string>
+    <string name="nefsenti">Nefsenti</string>
+    <string name="alleluia">Alleluia</string>
+    <string name="ari">Ari Pa Mevi</string>
+    <string name="erepo">Erepo Esmo</string>
+    <string name="isos">O Penshois Isos Pikhristos</string>
+    <string name="apen">Apenshoice</string>
+    <string name="shari">Shari Efnoti</string>
+    <string name="nem">Nem Ghar</string>
+    <string name="cath">Catholicon</string>
+    <string name="arip">Aripsalin</string>
+    <string name="dox">Doxology</string>
+    <string name="enth">Enthote Ti Shori</string>
+    <string name="pav">Pavlos Vok</string>
+    <string name="book">Book</string>
+    <string name="tests">Tests</string>
+    <string name="exam">Exam Dates</string>
+    <string name="coming">Coming Soon!</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="update">Check for updates</string>
+    <string name="check">Check</string>
+    <string name="google">This link will take you to the play store to see if there is an update to this app. In the future there will be a notification that will alert you.</string>
+
+</resources>

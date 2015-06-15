@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abanoub14.smf15"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" android:vmSafeMode="false">
+        <activity
+            android:name="com.abanoub14.smf15.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="Grades"></activity>
+        <activity android:name="First"></activity>
+        <activity android:name="KG"></activity>
+        <activity android:name="Ninth"></activity>
+        <activity android:name="Sixth"></activity>
+        <activity android:name="Third"></activity>
+        <activity android:name="Kgbible"></activity>
+        <activity android:name="Kghymns"></activity>
+        <activity android:name="Firstbible"></activity>
+        <activity android:name="Firsthymns"></activity>
+        <activity android:name="Thirdbible"></activity>
+        <activity android:name="Thirdhymns"></activity>
+        <activity android:name="Sixthsports"></activity>
+        <activity android:name="Sixthbible"></activity>
+        <activity android:name="Sixthchoir"></activity>
+        <activity android:name="Sixthcoptic"></activity>
+        <activity android:name="Sixthelectronics"></activity>
+        <activity android:name="Sixthhymns"></activity>
+        <activity android:name="Sixthresearch"></activity>
+        <activity android:name="Ninthbible"></activity>
+        <activity android:name="Ninthchoir"></activity>
+        <activity android:name="Ninthcoptic"></activity>
+        <activity android:name="Ninthelectronics"></activity>
+        <activity android:name="Ninthhymns"></activity>
+        <activity android:name="Ninthresearch"></activity>
+        <activity android:name="Ninthsports"></activity>
+        <activity android:name="Agios"></activity>
+        <activity android:name="Hiten"></activity>
+        <activity android:name="Tengousht"></activity>
+        <activity android:name="Fai"></activity>
+        <activity android:name="Gospel"></activity>
+        <activity android:name="Psalm"></activity>
+        <activity android:name="Fourthhymns"></activity>
+        <activity android:name="Fifthhymns"></activity>
+        <activity android:name="Gradethird"></activity>
+        <activity android:name="Alleluia"></activity>
+        <activity android:name="Ari"></activity>
+        <activity android:name="Erepo"></activity>
+        <activity android:name="Isos"></activity>
+        <activity android:name="Nefsenti"></activity>
+        <activity android:name="Nish"></activity>
+        <activity android:name="Cymbals"></activity>
+        <activity android:name="Eighthhymns"></activity>
+        <activity android:name="Apen"></activity>
+        <activity android:name="Shari"></activity>
+        <activity android:name="Nem"></activity>
+        <activity android:name="Cath"></activity>
+        <activity android:name="Arip"></activity>
+        <activity android:name="Dox"></activity>
+        <activity android:name="Enth"></activity>
+        <activity android:name="Pav"></activity>
+        <activity android:name="Kgbook"></activity>
+        <activity android:name="Kgbibleexam"></activity>
+        <activity android:name="Kgbibletests"></activity>
+        <activity android:name="Firstbook"></activity>
+        <activity android:name="Thirdbook"></activity>
+        <activity android:name="Firstbibleexam"></activity>
+        <activity android:name="Firstbibletests"></activity>
+        <activity android:name="Thirdbibletests"></activity>
+        <activity android:name="Thirdbibleexam"></activity>
+        <activity android:name="Sixthbook"></activity>
+        <activity android:name="Sixthbibleexam"></activity>
+        <activity android:name="Sixthbibletests"></activity>
+        <activity android:name="Ninthbook"></activity>
+        <activity android:name="Ninthbibleexam"></activity>
+        <activity android:name="Ninthbibletests"></activity>
+        <activity android:name="Agioslyrics"></activity>
+        <activity android:name="Agiosexam"></activity>
+        <activity android:name="Hitenlyrics"></activity>
+        <activity android:name="Hitenexam"></activity>
+        <activity android:name="Tengoushtexam"></activity>
+        <activity android:name="Tengoushtlyrics"></activity>
+        <activity android:name="Nefsentilyrics"></activity>
+        <activity android:name="Nefsentiexam"></activity>
+        <activity android:name="Nishexam"></activity>
+        <activity android:name="Nishlyrics"></activity>
+        <activity android:name="Alleluiaexam"></activity>
+        <activity android:name="Alleluialyrics"></activity>
+        <activity android:name="Gospellyrics"></activity>
+        <activity android:name="Gospelexam"></activity>
+        <activity android:name="Psalmlyrics"></activity>
+        <activity android:name="Psalmexam"></activity>
+        <activity android:name="Cymbalsexam"></activity>
+        <activity android:name="Cymbalslyrics"></activity>
+        <activity android:name="Menu"></activity>
+        <activity android:name="Update"></activity>
+       
+    </application>
+
+</manifest>
